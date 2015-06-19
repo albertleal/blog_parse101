@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "parse": "^1.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test.js"
+  },
+  "author": "Albert Leal",
+  "license": "ISC"
+}
