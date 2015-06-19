@@ -1,5 +1,4 @@
-#ALbert Leal
-
+#Albert Leal Parse Cloud 101
 Repositorio de ejemplo para el post: [parse-cloud-code]
 [parse-cloud-code]:http://albertleal.com/blog/2015/06/parse-cloud-code-empezamos/
 ___
@@ -7,7 +6,7 @@ ___
 Agregar config de Parse a la carpeta parse/config
 Correr dentro de la carpeta parse
 ```sh
-$parse deploy
+$ parse deploy
 ```
 ###Testeo en node
 Modificar el archivo test/test.js con las credenciales
